@@ -8,7 +8,7 @@
 
 <p> Tela de login do facebook reproduzida utilizando tailwind</p>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52545654809/in/dateposted-public/" title="Captura de tela de 2022-12-05 12-26-34"><img src="https://live.staticflickr.com/65535/52545654809_eef9989d84_h.jpg" width="1366" height="768" alt="Captura de tela de 2022-12-05 12-26-34"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52545654809/in/dateposted-public/" title="Captura de tela de 2022-12-05 12-26-34"><img src="https://live.staticflickr.com/65535/52545654809_eef9989d84_h.jpg" width="1366" height="768" alt="Captura de tela de 2022-12-05 12-26-34"></a>
 
 
 ## Criador do Projeto
